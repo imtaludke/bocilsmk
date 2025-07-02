@@ -1,2 +1,1 @@
-# bocilsmk
-bocilsmk
+# [bocilsmk](https://bocilsmk.pages.dev)
